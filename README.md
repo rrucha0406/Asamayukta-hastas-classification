@@ -3,7 +3,7 @@ my first opencv project
 
 # Bharatanatyam Mudra Recognition using MediaPipe & Machine Learning
 
-## Project Overview
+#Project Overview
 
 This project detects and classifies Bharatanatyam hand mudras (Asamyuta Hastas) using:
 
