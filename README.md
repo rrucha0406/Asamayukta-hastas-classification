@@ -1,5 +1,6 @@
 # Asamayukta-hastas-classification
-my first opencv project
+my first mediapipe project
+dataset :[https://www.kaggle.com/datasets/sauravsm/kathakali-mudra-dataset]
 
 # Bharatanatyam Mudra Recognition using MediaPipe & Machine Learning
 
