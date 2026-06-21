@@ -4,7 +4,7 @@ dataset :[https://www.kaggle.com/datasets/sauravsm/kathakali-mudra-dataset]
 
 # Bharatanatyam Mudra Recognition using MediaPipe & Machine Learning
 
-#Project Overview
+Project Overview
 
 This project detects and classifies Bharatanatyam hand mudras (Asamyuta Hastas) using:
 
